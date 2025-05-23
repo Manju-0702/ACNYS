@@ -69,15 +69,4 @@ npm run preview
 * JavaScript (ES6+)
 * HTML5, CSS3
 
-## 📸 Screenshots
-
-*Add images or demo previews of the website here if available.*
-
-## 📬 Contact
-
-Developed by [Shashidhar-18](https://github.com/Shashidhar-18)
-For inquiries or collaboration, feel free to reach out.
-
----
-
 > This project is a part of the digital development initiative under Alva’s Education Foundation.
